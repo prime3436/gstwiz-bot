@@ -1,0 +1,21 @@
+# GSTWiz — Dependencies
+# Install with: pip install -r requirements.txt
+# Requires Python 3.9+ (tested on 3.13)
+
+# Core LLM & RAG (latest versions with Python 3.13 wheels)
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+
+# Embeddings (install separately if build fails: use --only-binary=all)
+sentence-transformers
+
+# Vector Store (pre-built wheel available for Python 3.13)
+faiss-cpu
+
+# UI
+streamlit
+
+# Utilities
+python-dotenv

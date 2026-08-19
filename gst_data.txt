@@ -1,0 +1,914 @@
+========================================
+GST COMPLIANCE KNOWLEDGE BASE - INDIA
+GSTWiz AI Tax Compliance Bot
+Source: CGST Act 2017, IGST Act 2017, GST Council Notifications
+========================================
+
+===========================================
+SECTION 1: OVERVIEW OF GST IN INDIA
+===========================================
+
+What is GST?
+Goods and Services Tax (GST) is a comprehensive, multi-stage, destination-based indirect tax that replaced multiple cascading taxes levied by the central and state governments in India. GST was launched on July 1, 2017.
+
+GST subsumes the following taxes:
+- Central Excise Duty
+- Service Tax
+- VAT (Value Added Tax)
+- Central Sales Tax
+- Entry Tax
+- Octroi
+- Entertainment Tax (except levied by local bodies)
+- Luxury Tax
+- Taxes on lottery, betting, and gambling
+- Purchase Tax
+
+Types of GST:
+1. CGST (Central GST): Levied by Central Government on intra-state supplies
+2. SGST (State GST): Levied by State Government on intra-state supplies
+3. IGST (Integrated GST): Levied by Central Government on inter-state supplies and imports
+4. UTGST (Union Territory GST): Levied in Union Territories without legislature
+
+For intra-state transactions: CGST + SGST apply (each is half of total GST rate)
+For inter-state transactions: IGST applies (equal to CGST + SGST combined)
+
+GST Council:
+The GST Council is the apex decision-making body for GST in India. It consists of the Union Finance Minister (Chairperson) and Finance Ministers of all states. Decisions are made by three-fourths majority. The Council recommends tax rates, exemptions, thresholds, and other policies.
+
+===========================================
+SECTION 2: GST REGISTRATION
+===========================================
+
+Who needs to register for GST?
+Every supplier whose aggregate turnover exceeds the threshold limit must register for GST.
+
+Threshold Limits:
+- Normal states: Rs. 40 lakhs for goods (increased from Rs. 20 lakhs in February 2019)
+- Special category states (Manipur, Mizoram, Nagaland, Tripura): Rs. 20 lakhs for goods
+- Services: Rs. 20 lakhs for most states
+- Special category states for services: Rs. 10 lakhs
+
+Persons Mandatorily Required to Register (regardless of turnover):
+1. Persons making inter-state taxable supplies
+2. Casual taxable persons making taxable supplies
+3. Persons required to pay tax under reverse charge mechanism
+4. Non-resident taxable persons making taxable supplies
+5. Persons required to deduct tax at source (TDS under GST)
+6. Persons required to collect tax at source (TCS under GST)
+7. E-commerce operators
+8. Input Service Distributors (ISD)
+9. Persons supplying through e-commerce operators who are required to collect TCS
+10. Persons supplying online information and database access retrieval (OIDAR) services
+11. Persons engaged in making supplies of notified goods
+
+GST Registration Process:
+- Apply online at www.gst.gov.in
+- Required documents: PAN card, Aadhaar card, proof of business registration, address proof, bank account details, digital signature
+- Application must be submitted within 30 days of becoming liable to register
+- GST registration certificate is issued within 7 working days of submitting complete application
+- GSTIN (GST Identification Number) is a 15-digit alphanumeric code
+
+Structure of GSTIN:
+- First 2 digits: State code
+- Next 10 digits: PAN of the taxpayer
+- 13th digit: Entity number of same PAN holder in a state
+- 14th digit: Z by default
+- 15th digit: Check code
+
+Voluntary Registration:
+Persons below the threshold limit can voluntarily register for GST to avail Input Tax Credit.
+
+Composition Scheme Registration:
+Businesses with turnover up to Rs. 1.5 crore (Rs. 75 lakhs for special category states) can opt for the Composition Scheme. Services are limited to Rs. 50 lakhs.
+
+GST Registration for Specific Cases:
+- Casual Taxable Person: Must register before commencing business, for a period not exceeding 90 days
+- Non-Resident Taxable Person: Must register before commencing business, for a period not exceeding 90 days
+- E-commerce Operators: Mandatory registration regardless of turnover
+
+Cancellation of GST Registration:
+- By the taxpayer: If business is discontinued, transferred, amalgamated, or if turnover falls below threshold
+- By the GST officer: If returns are not filed for continuous period of 6 months (for regular taxpayers) or 3 tax periods (for composition taxpayers)
+- Revocation of cancellation can be applied within 30 days of cancellation order
+
+Amendment of GST Registration:
+- Core fields (legal name, principal place of business, additional places of business, partners/directors): Requires approval from tax officer within 15 working days
+- Non-core fields: Can be amended by the taxpayer directly
+
+===========================================
+SECTION 3: GST TAX RATES AND SLABS
+===========================================
+
+GST has five tax rate slabs:
+- 0% (Nil rated): Essential goods and services
+- 5%: Basic necessities
+- 12%: Standard goods
+- 18%: Most services and goods
+- 28%: Luxury and demerit goods
+
+Plus additional Cess on luxury and sin goods.
+
+0% GST (Nil Rated) Items:
+- Fresh vegetables and fruits
+- Fresh milk, curd, lassi, buttermilk
+- Eggs (without shell)
+- Fish, meat (not processed or preserved)
+- Cereals in natural form (wheat, rice, jowar, bajra, maize)
+- Salt (all types)
+- Bread (plain, not branded)
+- Sindoor, bangles, kajal (not cosmetics)
+- Handloom fabrics
+- Natural honey
+- Live trees, plants, flowers
+- Educational services (by government/charitable trusts)
+- Healthcare services
+- Legal services by advocate to individuals
+- Agricultural services
+- Postal services by Indian Post
+
+5% GST Items:
+- Packaged food items like sugar, tea, coffee
+- Edible oils (except branded premium ones)
+- Footwear below Rs. 1000
+- Fabrics
+- Fertilizers
+- Medicines and drugs
+- Life-saving drugs (some at 0%)
+- Agarbatti (incense sticks)
+- Cashew nuts, raisins
+- Railway transport (passengers economy class)
+- Air transport (economy class)
+- Restaurant food in non-AC restaurants
+
+12% GST Items:
+- Processed foods
+- Butter, ghee, cheese
+- Mobile phones (changed from 18% to 12%)
+- Computers and laptops (some categories)
+- Umbrellas
+- Sewing machines
+- Business class air transport
+- Non-AC hotel rooms (Rs. 1000-7500 per day)
+
+18% GST Items:
+- Most services: banking, telecom, IT services
+- Restaurants in AC premises
+- Hotel rooms (Rs. 7500+ per day)
+- Computers and peripherals
+- Cameras, speakers
+- Hair dryers, shavers
+- Refrigerators, washing machines
+- Paint, varnish
+- Steel products
+- Mineral water
+- Ice cream
+- Aerated drinks (also Cess)
+- Financial services
+
+28% GST Items:
+- Luxury cars
+- Motorcycles above 350cc
+- Aircraft (for personal use)
+- Tobacco products (also Cess)
+- Pan masala (also Cess)
+- Cement
+- Air conditioners
+- Dishwashers
+- Casinos, horse racing, gambling (also Cess)
+- Premium hotels (certain categories)
+
+GST on Real Estate:
+- Affordable housing: 1% (without ITC)
+- Other residential property under construction: 5% (without ITC)
+- Commercial property under construction: 12% (with ITC)
+- Ready-to-move-in (with completion certificate): No GST (sale of land/built-up property)
+
+GST on Gold and Jewellery:
+- Gold: 3%
+- Silver: 3%
+- Making charges for jewellery: 5%
+- Diamond and precious stones: 0.25%
+
+GST on Financial Services:
+- Banking services: 18%
+- Insurance premiums: 18%
+- Stock broking services: 18%
+- Mutual fund management charges: 18%
+
+GST on Healthcare:
+- Health insurance premiums: 18%
+- Hospital services (clinical establishment): 0%
+- Medicines and drugs: 5% to 12%
+- Medical devices: 5% to 12%
+
+GST Exemptions:
+- Activities/transactions specified in Schedule III are not supplies
+- Exempted goods and services are listed in the Exemption Notifications
+- Zero-rated supplies: Exports and supplies to SEZ
+
+===========================================
+SECTION 4: GST RETURNS
+===========================================
+
+Types of GST Returns:
+
+1. GSTR-1 (Outward Supplies):
+- Who files: All registered taxpayers (except composition dealers, ISD, non-resident taxpayers)
+- Frequency: Monthly (if turnover > Rs. 5 crore) or Quarterly (if turnover <= Rs. 5 crore, under QRMP scheme)
+- Due Date (Monthly): 11th of the following month
+- Due Date (Quarterly): 13th of the month following the quarter
+- Content: Details of all outward supplies (sales) made during the period
+
+2. GSTR-2A (Auto-drafted):
+- Auto-populated from GSTR-1 filed by suppliers
+- No filing required, only for reconciliation
+
+3. GSTR-2B (Auto-drafted ITC Statement):
+- Auto-generated monthly statement showing eligible ITC
+- Available 14th of each month
+- No filing required
+
+4. GSTR-3B (Monthly Summary Return):
+- Who files: All regular taxpayers
+- Frequency: Monthly or Quarterly (under QRMP scheme)
+- Due Date (Monthly, turnover > Rs. 5 crore): 20th of following month
+- Due Date (Quarterly, Category X states): 22nd of month following quarter
+- Due Date (Quarterly, Category Y states): 24th of month following quarter
+- Content: Summary of outward/inward supplies and tax liability
+
+5. GSTR-4 (Composition Dealer Annual Return):
+- Who files: Composition scheme taxpayers
+- Frequency: Annual
+- Due Date: 30th April of next financial year
+
+6. GSTR-5 (Non-Resident Taxpayer):
+- Who files: Non-resident taxable persons
+- Frequency: Monthly
+- Due Date: 20th of following month or within 7 days of expiry of registration
+
+7. GSTR-6 (Input Service Distributor):
+- Who files: Input Service Distributors
+- Frequency: Monthly
+- Due Date: 13th of following month
+
+8. GSTR-7 (TDS Deductors):
+- Who files: Persons deducting TDS under GST
+- Frequency: Monthly
+- Due Date: 10th of following month
+
+9. GSTR-8 (TCS Collectors - E-commerce):
+- Who files: E-commerce operators collecting TCS
+- Frequency: Monthly
+- Due Date: 10th of following month
+
+10. GSTR-9 (Annual Return):
+- Who files: All regular taxpayers
+- Frequency: Annual
+- Due Date: 31st December of next financial year
+- Turnover limit for mandatory filing: Above Rs. 2 crore (optional for below Rs. 2 crore)
+
+11. GSTR-9C (Reconciliation Statement/Audit):
+- Who files: Taxpayers with turnover above Rs. 5 crore
+- Frequency: Annual
+- Due Date: Same as GSTR-9
+
+12. GSTR-10 (Final Return):
+- Who files: Registered persons whose registration is cancelled/surrendered
+- Filing: Within 3 months of cancellation or date of cancellation order
+
+13. GSTR-11 (UIN Holders):
+- Who files: Persons with Unique Identification Number (UIN) - embassy/diplomatic missions
+- Frequency: Monthly
+- Due Date: 28th of following month
+
+CMP-08 (Composition Quarterly Return):
+- Who files: Composition scheme taxpayers
+- Frequency: Quarterly
+- Due Date: 18th of the month following the quarter
+
+QRMP Scheme (Quarterly Return Monthly Payment):
+- Available for taxpayers with turnover up to Rs. 5 crore
+- File GSTR-1 and GSTR-3B quarterly
+- Pay tax monthly through PMT-06 challan
+- First two months: Pay using challan (fixed sum or self-assessment)
+- Third month: File quarterly GSTR-3B
+
+NIL Return:
+- Must be filed even if no transactions during the period
+- Can be filed via SMS using format: NIL <space> R1 <space> GSTIN <space> Tax period
+- For GSTR-3B: NIL <space> 3B <space> GSTIN <space> Tax period
+
+===========================================
+SECTION 5: INPUT TAX CREDIT (ITC)
+===========================================
+
+What is Input Tax Credit?
+Input Tax Credit (ITC) is the tax paid on purchases (inputs) that can be used to reduce the tax payable on sales (output). ITC prevents cascading effect of taxes (tax on tax).
+
+Example: If you purchase goods worth Rs. 1,00,000 and pay 18% GST (Rs. 18,000), and sell goods worth Rs. 1,50,000 with 18% GST (Rs. 27,000), your actual tax liability = Rs. 27,000 - Rs. 18,000 = Rs. 9,000.
+
+Conditions for Claiming ITC:
+1. The person must be a registered taxpayer
+2. Must possess a tax invoice or debit note
+3. The goods/services must have been received
+4. The supplier must have filed their GSTR-1 and tax must be deposited
+5. The return (GSTR-3B) must have been filed
+6. Time limit: Earlier of (a) annual return due date or (b) 30th November of next financial year
+
+Items on which ITC is NOT available (Blocked Credits - Section 17(5)):
+1. Motor vehicles for personal use (with certain exceptions)
+2. Food and beverages, outdoor catering
+3. Beauty treatment, health services, cosmetic surgery (except for business in same line)
+4. Membership of club, health, fitness centre
+5. Rent-a-cab, life insurance, health insurance (except statutory requirement)
+6. Works contract services for immovable property (except plant and machinery)
+7. Goods and services for personal consumption
+8. Goods lost, stolen, destroyed, written off
+9. Goods given as gifts or free samples
+10. Tax paid under composition scheme
+
+ITC for Motor Vehicles:
+- No ITC for motor vehicles used for personal transportation
+- ITC available for: transport of passengers as business activity, supply of motor vehicles, driving training services
+
+ITC Reversal:
+ITC must be reversed if:
+1. Goods/services used for exempt supplies
+2. Goods/services used for non-business purposes
+3. Non-payment to supplier within 180 days
+4. Credit note received from supplier
+5. Goods/services destroyed or written off
+
+ITC for Capital Goods:
+- ITC on capital goods is available in full upfront
+- If used for both taxable and exempt supplies, ITC must be apportioned
+
+Cross-utilization of ITC:
+IGST credit can be used for: IGST, CGST, SGST (in that order)
+CGST credit can be used for: CGST, then IGST
+SGST credit can be used for: SGST, then IGST
+CGST credit CANNOT be used to pay SGST and vice versa
+
+ITC under GSTR-2B:
+- Auto-generated based on GSTR-1 filed by suppliers
+- Available every 14th of the month
+- Safe harbour: ITC appearing in GSTR-2B is available without reconciliation
+
+Provisional ITC:
+As per Rule 36(4), provisional ITC is limited to the ITC available in GSTR-2B. Taxpayers cannot avail more ITC than what appears in GSTR-2B.
+
+===========================================
+SECTION 6: COMPOSITION SCHEME
+===========================================
+
+What is the Composition Scheme?
+The Composition Scheme is a simplified tax compliance scheme for small taxpayers. Instead of regular GST, they pay a fixed percentage of turnover.
+
+Eligibility for Composition Scheme:
+- Aggregate turnover in preceding financial year should not exceed Rs. 1.5 crore
+- Rs. 75 lakhs for special category states (Arunachal Pradesh, Uttarakhand, Himachal Pradesh, Meghalaya, Sikkim, Tripura, Mizoram, Manipur, Nagaland)
+- Service providers: Rs. 50 lakhs
+
+Tax Rates under Composition Scheme:
+- Manufacturers: 1% (0.5% CGST + 0.5% SGST)
+- Traders/dealers: 1% (0.5% CGST + 0.5% SGST)
+- Restaurants (not serving alcohol): 5% (2.5% CGST + 2.5% SGST)
+- Mixed supplies (goods + services up to 10% or Rs. 5 lakhs): 1%
+- Service providers: 6% (3% CGST + 3% SGST)
+
+Persons NOT eligible for Composition Scheme:
+1. Suppliers making inter-state outward supplies
+2. Suppliers making supply through e-commerce platforms (on which TCS is applicable)
+3. Manufacturers of notified goods (pan masala, tobacco, ice cream, aerated water)
+4. Non-resident taxable persons
+5. Persons who have opted out of composition in the current financial year
+
+Restrictions under Composition Scheme:
+- Cannot collect GST from customers (tax is absorbed by the business)
+- Cannot avail Input Tax Credit
+- Cannot issue tax invoices (only Bill of Supply)
+- Must display "Composition Taxable Person" on bill of supply
+- Cannot make interstate supplies (except in some cases)
+
+Compliance under Composition Scheme:
+- File CMP-08 (quarterly statement) by 18th of following month
+- File GSTR-4 (annual return) by 30th April of next year
+- No monthly returns required
+
+How to opt for Composition Scheme:
+- File Form GST CMP-02 on the GST portal
+- Must opt before commencement of financial year
+
+Opting out of Composition Scheme:
+- File Form GST CMP-04 when turnover exceeds threshold
+- Must opt out within 7 days of exceeding the threshold
+
+===========================================
+SECTION 7: E-INVOICING
+===========================================
+
+What is E-invoicing?
+E-invoicing (Electronic Invoicing) is a system where B2B invoices are authenticated electronically by the GST Network (GSTN). An Invoice Reference Number (IRN) is generated for each valid invoice.
+
+Who must generate E-invoices?
+Mandatory for businesses with aggregate turnover:
+- Above Rs. 5 crore (applicable since August 1, 2023)
+- Previously: Rs. 10 crore (August 2022), Rs. 20 crore (April 2022), Rs. 50 crore (April 2021), Rs. 100 crore (January 2021), Rs. 500 crore (October 2020)
+
+Transactions covered under E-invoicing:
+- B2B (Business to Business) invoices
+- Exports
+- SEZ supplies (with/without payment of tax)
+- Deemed exports
+- B2G (Business to Government) invoices
+
+Transactions NOT covered under E-invoicing:
+- B2C (Business to Consumer) transactions
+- Nil-rated or wholly exempt supplies
+- Import transactions
+- Securities transactions (financial services)
+- Banking, insurance, financial institutions
+- Goods transport agencies
+- Passenger transport services
+
+E-invoicing Process:
+1. Create invoice in your ERP/accounting software
+2. Generate JSON file in the specified format
+3. Upload to Invoice Registration Portal (IRP)
+4. IRP validates the invoice and generates IRN (64-character hash) and QR code
+5. IRN and QR code must be printed on the invoice
+6. IRP shares data with GSTN for auto-population in GSTR-1
+
+Invoice Reference Number (IRN):
+- Unique 64-character hash
+- Generated based on Supplier GSTIN + Document type + Document number + Financial year
+- IRN is valid for 30 days from date of generation
+- Once generated, invoice details cannot be changed; only cancellation is possible within 24 hours
+
+QR Code on E-invoice:
+Must contain: GSTIN of supplier, GSTIN of recipient, Invoice number and date, Invoice value, Number of line items, HSN of main item, IRN
+
+===========================================
+SECTION 8: E-WAY BILL
+===========================================
+
+What is E-way Bill?
+E-way Bill is an electronic document required for the movement of goods worth more than Rs. 50,000 anywhere in India (inter-state) or within a state (intra-state, as notified by states).
+
+When is E-way Bill required?
+- Value of goods exceeds Rs. 50,000
+- Applies to both taxable and exempt goods in certain cases
+- Required for supply, transfer, return, or any other movement
+
+Who generates E-way Bill?
+- Supplier or recipient (registered on GST portal)
+- Transporter (if supplier/recipient fail to generate)
+
+Validity of E-way Bill:
+- Up to 100 km: 1 day
+- For every 100 km or part thereof: 1 additional day
+- For over-dimensional cargo: 1 day for up to 20 km, 1 additional day for every 20 km
+- Validity can be extended before 4 hours and up to 4 hours after expiry
+
+E-way Bill for Intra-state Movement:
+- Each state has separate threshold limits
+- Some states have lower threshold (Rs. 10,000 or Rs. 50,000)
+- Some goods may require E-way bill for any value
+
+Situations where E-way Bill is NOT required:
+1. Goods transported by non-motorized conveyance
+2. Goods transported by Railways (for some categories)
+3. Goods transported in customs bonded containers from customs port to ICD
+4. Ministry of Defence goods
+5. Empty cargo containers
+6. Goods moved under customs seal
+7. Goods exempt from GST if value less than Rs. 50,000
+8. Specific goods notified by government (alcoholic liquor, petroleum)
+
+Penalty for not having E-way Bill:
+- Tax evaded + penalty equal to tax evaded, or Rs. 10,000, whichever is higher
+- Goods can be detained/seized until penalty is paid
+
+===========================================
+SECTION 9: REVERSE CHARGE MECHANISM (RCM)
+===========================================
+
+What is Reverse Charge Mechanism?
+Under Reverse Charge Mechanism, the liability to pay GST is on the recipient of goods/services instead of the supplier.
+
+When does RCM apply?
+1. Section 9(3): Specific goods and services notified by GST Council
+2. Section 9(4): Supplies from unregistered to registered persons (for specific categories notified)
+
+Goods/Services under RCM (Section 9(3)):
+- Raw cotton by agriculturist to registered person
+- Tobacco leaves
+- Silk yarn
+- Cashew nuts in shell
+- Bidi wrapper leaves
+- Lottery tickets
+- Goods transport agency (GTA) services
+- Legal services by an advocate to business entity
+- Services by arbitral tribunal to business entity
+- Services by director to company
+- Services by insurance agent to insurance company
+- Services from government (renting of immovable property)
+- Services from foreign supplier for OIDAR services
+- Services by recovery agent to banking company
+- Transport of passengers by any motor vehicle by cab aggregator
+- Renting of motors vehicles
+
+ITC under RCM:
+- Person paying GST under RCM can claim ITC on such payment
+- ITC is available in the same month in which GST is paid under RCM
+
+RCM Compliance:
+- Must register under GST if liable to pay under RCM (no threshold applicable)
+- Must issue payment voucher when paying under RCM
+- Must file returns showing RCM payment
+
+===========================================
+SECTION 10: EXPORTS AND ZERO-RATED SUPPLIES
+===========================================
+
+What are Zero-Rated Supplies?
+Exports of goods and services and supplies to Special Economic Zones (SEZ) are called zero-rated supplies. No GST is charged on zero-rated supplies, and the supplier can claim refund of ITC.
+
+Two options for Zero-Rated Supplies:
+1. Export/SEZ supply under LUT/Bond: No GST charged, claim refund of accumulated ITC
+2. Export/SEZ supply with IGST payment: Pay IGST and claim refund of IGST paid
+
+Letter of Undertaking (LUT):
+- Exporters can file LUT to export without paying IGST
+- LUT must be filed every year before making exports
+- Valid for the entire financial year
+- File Form GST RFD-11 on GST portal
+
+Refund on Exports:
+- Refund of ITC for exports under LUT: Apply in Form GST RFD-01
+- Refund of IGST paid on exports: Automatic based on shipping bill and GSTR-3B data
+- Time limit: 2 years from relevant date
+
+Relevant Date for Refund:
+- Export of goods: Date of export as per shipping bill
+- Export of services: Date of receipt of convertible foreign exchange
+- Supplies to SEZ: Date of providing the SEZ supply
+
+Deemed Exports:
+Certain supplies are treated as deemed exports even though goods don't leave India:
+- Supply to export-oriented units (EOU)
+- Supply to EPCG license holders
+- Supply to electronics hardware technology parks
+
+===========================================
+SECTION 11: GST TDS AND TCS
+===========================================
+
+TDS under GST (Section 51):
+Tax Deduction at Source applies when:
+- Government bodies/authorities make payments above Rs. 2.5 lakhs to suppliers
+- Rate: 1% CGST + 1% SGST (2% IGST for inter-state)
+- TDS deducted must be deposited by 10th of following month
+- TDS certificate must be issued within 5 days of depositing TDS
+
+TDS Applicability:
+- Central/State Government
+- Local authorities
+- Government agencies/departments
+- PSUs notified by government
+- Societies established by Central/State Government
+
+TCS under GST (Section 52):
+Tax Collection at Source applies to E-commerce Operators:
+- Rate: 1% (0.5% CGST + 0.5% SGST) on net taxable supplies made through the platform
+- Deducted from payment to suppliers
+- Deposited by 10th of following month
+- Statement filed in GSTR-8 by 10th of following month
+
+===========================================
+SECTION 12: GST REFUNDS
+===========================================
+
+When can GST Refund be claimed?
+1. Export of goods/services (zero-rated supplies)
+2. Supplies to SEZ units/developers
+3. Excess payment of tax
+4. ITC accumulated due to inverted duty structure
+5. Deemed exports
+6. Assessment/provisional assessment modifications
+7. Pre-deposit refund after appellate order
+
+Inverted Duty Structure:
+When GST rate on inputs is higher than GST rate on output (finished goods), ITC accumulates. Refund can be claimed for such accumulated ITC.
+
+GST Refund Process:
+- File Form GST RFD-01 on the GST portal
+- For exports: Submit along with relevant documents
+- Refund is processed within 60 days
+- If not processed within 60 days: 6% interest per annum on delayed refund
+
+Time Limit for Refund:
+- 2 years from the relevant date
+- For exports: Date of filing GST return after export
+
+Withholding of Refund:
+- If taxpayer has outstanding demand
+- If taxpayer is under investigation for fraud
+- If taxpayer has not filed all pending returns
+
+===========================================
+SECTION 13: GST PENALTIES AND INTEREST
+===========================================
+
+Interest on Late Payment of Tax:
+- Rate: 18% per annum (calculated on day-to-day basis)
+- For excess ITC claimed or excess reduction in liability: 24% per annum
+- Interest calculated from the day after due date to date of actual payment
+
+Late Filing Penalty (Late Fee):
+GSTR-3B:
+- Nil return: Rs. 20 per day (Rs. 10 CGST + Rs. 10 SGST)
+- Other than nil: Rs. 50 per day (Rs. 25 CGST + Rs. 25 SGST)
+- Maximum late fee: Rs. 5,000 (increased cap from Rs. 2,000)
+
+GSTR-1:
+- Nil return: Rs. 20 per day (Rs. 10 CGST + Rs. 10 SGST)
+- Other: Rs. 50 per day (Rs. 25 CGST + Rs. 25 SGST)
+- Maximum: Rs. 5,000
+
+GSTR-9 (Annual Return):
+- Rs. 200 per day (Rs. 100 CGST + Rs. 100 SGST)
+- Maximum: 0.25% of turnover in state/UT
+
+Penalty for Tax Evasion:
+- Penalty = 100% of tax evaded (or tax not paid/short paid)
+- Minimum penalty: Rs. 10,000
+- For cases without intent to evade (Section 73): 10% of tax subject to minimum of Rs. 10,000
+- For cases with intent to evade (Section 74): 100% of tax
+
+Offences and Penalties:
+1. Not registering despite liability: Penalty up to Rs. 10,000 or equivalent to tax
+2. Issuing invoice without supply (fake invoices): 100% of tax or Rs. 10,000
+3. Not issuing invoice: Penalty up to Rs. 25,000
+4. Obstructing GST officer: Penalty up to Rs. 25,000
+5. Suppressing turnover/sales: 100% of tax evaded
+6. Incorrect ITC claim: 100% of ITC wrongly availed
+
+Prosecution (Criminal Offences):
+For tax evasion above Rs. 1 crore:
+- Imprisonment up to 5 years + fine
+
+For tax evasion above Rs. 2 crore:
+- Imprisonment up to 7 years + fine
+
+For tax evasion above Rs. 5 crore:
+- Imprisonment up to 5 years + fine (cognizable offence)
+
+Amnesty Scheme:
+GST Council has periodically announced amnesty schemes to waive late fees for earlier periods. Taxpayers should check the GST portal for current amnesty notifications.
+
+===========================================
+SECTION 14: GST AUDIT AND ASSESSMENT
+===========================================
+
+Types of GST Audit:
+1. Audit by Tax Authorities: GST officer may conduct audit of any registered person
+2. Special Audit: If officer believes accounts are complex, can direct chartered accountant/cost accountant to audit
+
+Assessment under GST:
+1. Self-Assessment: Taxpayer assesses own tax liability and pays
+2. Provisional Assessment: When taxpayer cannot determine value/rate, applies for provisional assessment
+3. Scrutiny Assessment: Officer scrutinizes returns and asks for clarification
+4. Best Judgment Assessment: When taxpayer fails to file return, officer assesses based on available information
+5. Assessment of non-filers: Assessment of persons who never registered but were required to
+
+Scrutiny of Returns:
+- GST officer may scrutinize any return to verify its correctness
+- Officer sends notice (ASMT-10) if discrepancies found
+- Taxpayer must respond within 30 days
+- If satisfactory, proceeding is closed (ASMT-12)
+- If not satisfactory, further proceedings initiated
+
+Demand and Recovery:
+- Section 73: Cases of non-fraud (inadvertent errors)
+  - Notice issued: 3 years from due date of annual return
+  - Penalty: 10% of tax with minimum Rs. 10,000
+- Section 74: Cases of fraud/wilful misstatement
+  - Notice issued: 5 years from due date of annual return
+  - Penalty: 100% of tax with minimum Rs. 10,000
+
+===========================================
+SECTION 15: GST APPEALS
+===========================================
+
+Appeal Hierarchy:
+1. Adjudicating Authority (GST Officer)
+2. Appellate Authority (Commissioner/Joint Commissioner level)
+3. Appellate Tribunal (GST Tribunal - being established)
+4. High Court (on substantial questions of law)
+5. Supreme Court
+
+Time Limit for Filing Appeal:
+- To Appellate Authority: 3 months from communication of order
+- To Appellate Tribunal: 3 months from order of Appellate Authority
+- Condonation of delay possible with sufficient reason
+
+Pre-deposit for Appeal:
+- To Appellate Authority: 10% of disputed tax (in addition to admitted liability)
+- To Appellate Tribunal: 20% of disputed tax (in addition to 10% paid at Appellate Authority level)
+- Pre-deposit is adjusted against final liability
+
+===========================================
+SECTION 16: GST ANNUAL RETURN (GSTR-9)
+===========================================
+
+What is GSTR-9?
+GSTR-9 is the annual return that consolidates all monthly/quarterly returns filed during the financial year. It provides a comprehensive view of all outward and inward supplies.
+
+Who must file GSTR-9?
+- All registered regular taxpayers
+- Optional for taxpayers with turnover up to Rs. 2 crore (notified)
+- Composition dealers file GSTR-4 instead
+
+Due Date: 31st December of next financial year (e.g., GSTR-9 for FY 2023-24 is due by 31st Dec 2024)
+
+GSTR-9C (Reconciliation Statement):
+- Required for taxpayers with turnover above Rs. 5 crore
+- Filed along with GSTR-9
+- Reconciles books of accounts with GST returns
+- Certified by Chartered Accountant or Cost Accountant
+
+Common Errors in Annual Return:
+1. Mismatch between GSTR-1 and GSTR-3B
+2. ITC differences between GSTR-2A/2B and GSTR-3B
+3. Incorrect HSN summary
+4. Amendments not properly reported
+
+===========================================
+SECTION 17: PLACE OF SUPPLY RULES
+===========================================
+
+Why Place of Supply matters:
+Determines which tax applies:
+- Intra-state: CGST + SGST
+- Inter-state: IGST
+
+Place of Supply for Goods (Section 10):
+- Where movement ends (for moving goods)
+- Where goods are located at time of delivery (if no movement)
+- Location of supplier (for assembly at buyer's place)
+- Location of importer (for imports)
+
+Place of Supply for Services (Section 12):
+General Rule: Location of recipient of service
+
+Specific Rules:
+- Services related to immovable property: Location of immovable property
+- Restaurant and catering services: Location where service is performed
+- Training and performance appraisal: Location of recipient (if B2B) or where service performed (if B2C)
+- Admission to events: Location of event
+- Banking and financial services: Location of recipient
+- Insurance services: Location of recipient
+- Telecommunication services: Complex rules based on type of service
+- Online services: Location of recipient
+
+===========================================
+SECTION 18: GST FOR SMALL BUSINESSES - KEY POINTS
+===========================================
+
+Key Compliance Calendar for Small Business:
+- 10th of each month: TDS/TCS payment (if applicable)
+- 11th of each month: GSTR-1 filing (if monthly filer)
+- 13th of each month: GSTR-6 (ISD), IFF for QRMP filers
+- 18th of each quarter: CMP-08 for composition dealers
+- 20th of each month: GSTR-3B (for turnover > Rs. 5 crore)
+- 22nd/24th: GSTR-3B for quarterly filers
+- 28th of each month: GSTR-11 (UIN holders)
+- 30th April: GSTR-4 (annual return for composition dealers)
+- 31st December: GSTR-9 and GSTR-9C
+
+HSN Code Requirements:
+- Turnover up to Rs. 5 crore: 4-digit HSN code mandatory in invoice
+- Turnover above Rs. 5 crore: 6-digit HSN code mandatory in invoice
+- From April 2022: HSN code mandatory in GSTR-1 summary
+
+GST on Freelancers/Consultants:
+- Threshold: Rs. 20 lakhs
+- If below threshold: Registration not required (but voluntary registration possible for ITC)
+- If above threshold: Must register and file monthly returns
+- Export of services: Zero-rated (no GST charged to foreign clients)
+
+GST on Startups:
+- Register only when threshold is crossed
+- Can avail startup exemptions available under certain notifications
+- ITC available on all business expenses (including laptops, office rent, etc.)
+
+Digital Payments and GST:
+- No GST on digital payment transaction per se
+- Payment gateway fees: Subject to 18% GST
+- UPI transactions: No GST on the transaction itself
+
+===========================================
+SECTION 19: COMMON GST FAQ
+===========================================
+
+Q: Is GST applicable on freelance income?
+A: Yes, if annual income from freelancing exceeds Rs. 20 lakhs (Rs. 10 lakhs in some states), you must register for GST. Services to foreign clients are zero-rated exports.
+
+Q: What happens if I don't file GST returns on time?
+A: Late fees of Rs. 50 per day (Rs. 20 for nil returns) plus 18% interest on unpaid tax.
+
+Q: Can I claim ITC on purchases from unregistered dealers?
+A: Generally no. ITC is available only when the supplier is registered and has filed returns showing the supply.
+
+Q: Is GST applicable on rent?
+A: Commercial property rent: 18% GST (ITC available to business)
+Residential property rented to business (registered entity for commercial use): 18% GST
+Residential property rented for personal use: Exempt from GST
+
+Q: What is the GST rate on software/IT services?
+A: 18% GST on software products and IT services
+
+Q: Is GST applicable on salary?
+A: No, salary is not subject to GST as employer-employee relationship is excluded from GST
+
+Q: What is the GST rate on educational services?
+A: Educational services by government/government-aided institutions: Exempt (0%)
+Private coaching classes and commercial educational institutes: 18% GST
+
+Q: Is health insurance premium subject to GST?
+A: Yes, 18% GST on health insurance premium. Government has been debating reduction to 5% or 0%.
+
+Q: Can I get GST refund on hotel bills?
+A: Businesses can claim ITC on hotel accommodation if it is for business purposes and hotel has registered under GST.
+
+Q: What is the GST on petrol and diesel?
+A: Petrol, diesel, crude oil, natural gas, and aviation turbine fuel are currently NOT under GST. They are taxed under the old regime (excise duty + VAT).
+
+Q: How is GST calculated?
+A: GST Amount = (GST Rate / 100) x Taxable Value
+If price includes GST: GST Amount = Original Price x (GST Rate / (100 + GST Rate))
+
+Q: What documents are required to claim ITC?
+A: Tax invoice from supplier, debit note (if applicable), goods receipt confirmation, supplier's GSTR-1 filed (verified via GSTR-2B)
+
+Q: Is GST applicable on international transactions?
+A: Import of goods: IGST applicable (equal to GST rate + BCD)
+Import of services: IGST applicable under RCM
+Export of goods/services: Zero-rated (no GST)
+
+Q: What is the difference between nil-rated, exempt, and zero-rated?
+A: Nil-rated: GST rate is 0%, no ITC available to supplier
+Exempt: Specifically exempted by notification, no ITC for exempt supplies
+Zero-rated: Exports and SEZ supplies; ITC is available and refundable
+
+Q: What is aggregate turnover in GST?
+A: Aggregate turnover includes:
+- Taxable supplies
+- Exempt supplies
+- Export of goods/services
+- Inter-state supplies
+Excludes: Taxes, inward supplies on which RCM is paid, value of activities in Schedule III
+
+Q: Do I need a separate GST registration for each state?
+A: Yes, if you have business establishments in multiple states, you need separate GST registration for each state.
+
+Q: What is a composition dealer's obligation if turnover crosses the limit?
+A: Must opt out of composition scheme within 7 days of exceeding limit by filing GST CMP-04, and start filing regular GST returns from the next month.
+
+===========================================
+SECTION 20: RECENT GST UPDATES (2024-2025)
+===========================================
+
+Key Changes in Recent GST Council Meetings:
+- E-invoicing threshold reduced to Rs. 5 crore
+- New GST Tribunal (GSTAT) being established under Finance Act 2023
+- Biometric-based Aadhaar authentication for GST registration in select states
+- Input Tax Credit matching strictly enforced through GSTR-2B
+- Fake registration drives conducted to detect fraudulent registrations
+- GST on online gaming: 28% on full face value of bets (effective October 2023)
+- Insurance sector GST: Under review by GST Council for reduction
+
+Budget 2024 GST Changes:
+- Rationalization of GST rates discussed
+- ITC rules tightened further
+- Anti-profiteering provisions extended
+- Amnesty scheme for old pending demands introduced
+
+GST on New Sectors:
+- Casinos, horse racing: 28% on full face value of chips/bets
+- Online gaming (games of chance/skill): 28% on full face value
+- Virtual digital assets (cryptocurrencies): Not specifically covered under GST (varies by transaction type)
+
+Compliance Improvements:
+- Auto-population of GSTR-3B from GSTR-1 and GSTR-2B
+- SMS-based NIL return filing
+- System-generated intimation for ITC mismatches
+- E-way bill linked with E-invoice for seamless compliance
+
+========================================
+END OF GST KNOWLEDGE BASE
+Prepared for: GSTWiz AI Compliance Bot
+All figures as per GST Act 2017 and amendments
+Always verify with official GST portal: www.gst.gov.in
+========================================

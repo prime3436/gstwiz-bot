@@ -1,0 +1,40 @@
+# ── Environment / Secrets ──────────────────────────────
+.env
+*.env
+.env.*
+!.env.example
+
+# ── IDE Agent Skills ────────────────────────────────────
+.agents/
+.claude/
+
+# ── FAISS Vector Index (rebuild locally) ───────────────
+faiss_gst_index/
+
+# ── Python ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual environments ────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── HuggingFace model cache ─────────────────────────────
+.cache/
+~/.cache/huggingface/
+
+# ── IDE / OS ────────────────────────────────────────────
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+*.env1.txt
