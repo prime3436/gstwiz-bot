@@ -17,9 +17,6 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# ─────────────────────────────────────────────────────────────────────────────
-# CSS — all text forced visible, full dark-gold theme
-# ─────────────────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
@@ -269,17 +266,11 @@ div[data-testid="stSidebar"] .stButton > button:hover span {
 </style>
 """, unsafe_allow_html=True)
 
-# ─────────────────────────────────────────────────────────────────────────────
-# Session State
-# ─────────────────────────────────────────────────────────────────────────────
 FAISS_INDEX = "faiss_gst_index"
 for k, v in [("chat", []), ("chain", None), ("q_count", 0), ("err", ""), ("db_ok", os.path.exists(FAISS_INDEX))]:
     if k not in st.session_state:
         st.session_state[k] = v
 
-# ─────────────────────────────────────────────────────────────────────────────
-# Sidebar
-# ─────────────────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("""
     <div class="sb-logo">
@@ -375,9 +366,6 @@ with st.sidebar:
     </div>""", unsafe_allow_html=True)
 
 
-# ─────────────────────────────────────────────────────────────────────────────
-# Main Area
-# ─────────────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="hero">
     <div class="hero-icon">💰</div>
@@ -391,7 +379,6 @@ st.markdown("""
 if not st.session_state.db_ok:
     st.markdown('<div class="warn">⚠️ Knowledge base not built yet — click <b>⚡ Build DB</b> in the sidebar, then <b>🤖 Load Bot</b>.</div>', unsafe_allow_html=True)
 
-# ── Chat Display ──────────────────────────────────────────────────────────────
 if not st.session_state.chat:
     st.markdown("""
     <div class="msg bot">
@@ -422,7 +409,6 @@ else:
                     for i, s in enumerate(msg["sources"][:3], 1):
                         st.markdown(f'<div class="src"><b>Ref {i}:</b> {s[:280]}{"..." if len(s) > 280 else ""}</div>', unsafe_allow_html=True)
 
-# ── Input ─────────────────────────────────────────────────────────────────────
 pending = st.session_state.pop("_pq", None)
 user_input = st.chat_input(
     "Ask your GST question… e.g. 'What is the GST rate on restaurant food?'",

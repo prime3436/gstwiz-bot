@@ -9,7 +9,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# ── Stable imports for LangChain 1.x ─────────────────────────────────────────
 from langchain_community.document_loaders import TextLoader
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -19,9 +18,6 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_google_genai import GoogleGenerativeAI
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
-# ─────────────────────────────────────────────
-# Constants
-# ─────────────────────────────────────────────
 DATA_FILE   = "gst_data.txt"
 FAISS_INDEX = "faiss_gst_index"
 
@@ -41,9 +37,6 @@ Cite GST sections/notifications where relevant.
 Answer:"""
 
 
-# ─────────────────────────────────────────────
-# Helpers
-# ─────────────────────────────────────────────
 def _get_api_key() -> str:
     key = os.environ.get("GOOGLE_API_KEY", "")
     if not key:
@@ -58,9 +51,6 @@ def _get_embeddings() -> HuggingFaceEmbeddings:
     )
 
 
-# ─────────────────────────────────────────────
-# Build Vector Database
-# ─────────────────────────────────────────────
 def create_vector_db() -> FAISS:
     """Load gst_data.txt → chunk → embed → save FAISS index."""
     print("Loading GST knowledge base...")
@@ -80,9 +70,6 @@ def create_vector_db() -> FAISS:
     return db
 
 
-# ─────────────────────────────────────────────
-# Load QA Chain (LCEL style)
-# ─────────────────────────────────────────────
 def get_qa_chain():
     """Returns a callable LCEL chain: invoke({"query": "..."}) -> {"result": ..., "source_documents": [...]}"""
     print("Loading FAISS index...")
@@ -109,7 +96,6 @@ def get_qa_chain():
     def format_docs(docs):
         return "\n\n".join(d.page_content for d in docs)
 
-    # LCEL chain
     chain = (
         {
             "context":  retriever | format_docs,
@@ -120,7 +106,6 @@ def get_qa_chain():
         | StrOutputParser()
     )
 
-    # Wrap to return same dict format as RetrievalQA for compatibility with main.py
     class WrappedChain:
         def __init__(self, chain, retriever):
             self._chain = chain
@@ -136,9 +121,6 @@ def get_qa_chain():
     return WrappedChain(chain, retriever)
 
 
-# ─────────────────────────────────────────────
-# Smoke test: python helper.py
-# ─────────────────────────────────────────────
 if __name__ == "__main__":
     print("=" * 50)
     print("  GSTWiz - Knowledge Base Builder")
